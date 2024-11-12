@@ -45,5 +45,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 apps/web/next-env.d.ts
-!/apps/client/dist/
-!/apps/client/dist/*
+/apps/client/dist/
+/apps/client/dist/*

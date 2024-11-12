@@ -9,7 +9,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@ianvs/prettier-plugin-sort-imports": "4.2.1",
+    "@ianvs/prettier-plugin-sort-imports": "4.2.1"
   },
   "devDependencies": {
     "@ton_workspace/typescript-config": "workspace:*",
