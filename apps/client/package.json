@@ -12,6 +12,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^5.6.3"
+    "@ton_workspace/typescript-config": "workspace:*"
+  },
+  "dependencies": {
+    "@ton/core": "^0.59.0",
+    "@ton/crypto": "^3.3.0",
+    "@ton/ton": "^15.1.0",
+    "@tonconnect/ui-react": "^2.0.9"
+
   }
 }
